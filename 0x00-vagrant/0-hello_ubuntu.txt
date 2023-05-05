@@ -1,1 +1,0 @@
-The uname command displays the operating system name, When used  without any options.
